@@ -1,0 +1,26 @@
+.botonchingon{
+    margin-top: 30px;
+    background-color: rgba(0,0,0,0);
+    border-radius: 50px;
+    border-color: rgba(0,0,0,0);
+    color: white;
+}
+
+.imgboton{
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+}
+.cuadraditodolar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+h1{
+    margin: 20px;
+}
+.dolarvaluetext{
+    text-align: center;
+    margin: 10px;
+}
