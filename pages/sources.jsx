@@ -114,7 +114,7 @@ export function Cuadraditodolar(){
             <Apidolalblue></Apidolalblue>
             <Apidolaloficial></Apidolaloficial>
             </div>
-            <Botonchingon imagen="/web-apidolar/dolar-icon.jpeg" texto="Back" lugar="https://enbici.github.io/EnBiciweb/"></Botonchingon>
+            <Botonchingon imagen="/web-apidolar/dolar-icon.jpeg" texto="Back" lugar="https://enbici.github.io/EnBiciweb"></Botonchingon>
         </article>
     )
 
